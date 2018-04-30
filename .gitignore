@@ -1,0 +1,4 @@
+*.o
+pipe-example
+int-values.txt
+
